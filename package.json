@@ -1,0 +1,12 @@
+{
+  "name": "khenis-backend",
+  "version": "1.0.0",
+  "main": "Backend.js",
+  "scripts": {
+    "start": "node Backend.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^5.2.1"
+  }
+}
